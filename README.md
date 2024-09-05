@@ -75,7 +75,7 @@
 <h3 align="center">💡 Fun Fact: I love Chai and Roti 🍵</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlObrN7m0rK9L9S/giphy.gif" alt="Chai Gif" width="200px" />
+  <img src="https://camo.githubusercontent.com/b338f7ec9a1a6fa920fbf0b936a4e639d56955b78fbe315ee13f74a024cf481f/68747470733a2f2f75706c6f6164732e64697371757363646e2e636f6d2f696d616765732f383463326533383833633235313830393361623531613365643137643962383936396337386439386161343261356662663239623635613431373838333539622e676966" alt="Chai Gif" width="200px" />
 </p>
 
 ---
