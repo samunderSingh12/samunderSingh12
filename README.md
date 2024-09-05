@@ -88,22 +88,6 @@
 </p>
 
 ---
-
-<h2 align="center">✨ My Projects</h2>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/samunderSingh12/sub_reddit_images">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=samunderSingh12&repo=sub_reddit_images&theme=radical" alt="Project 1" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/samunderSingh12/another-project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=samunderSingh12&repo=another-project&theme=radical" alt="Project 2" />
-      </a>
-    </td>
-  </tr>
 </table>
 
 ---
