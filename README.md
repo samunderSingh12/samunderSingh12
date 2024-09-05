@@ -90,11 +90,3 @@
 ---
 </table>
 
----
-
-<h3 align="center">🚀 Follow My Journey 🚀</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZ5K/giphy.gif" width="400" alt="Rocket Launch Gif" />
-</p>
-
