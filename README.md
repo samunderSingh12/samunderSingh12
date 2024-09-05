@@ -1,6 +1,5 @@
 # 💫 About Me:
-Greetings, tech enthusiasts!<br>I'm Samunder Singh, a collage student with an insatiable appetite for artificial intelligence, machine learning, and the boundless realm of computer science. <br>My journey in technology is fueled by a vision to push the boundaries of what's possible, harnessing the power of AI and the versatility of Linux to craft innovative solutions that shape our digital future. <br>Standing at the crossroads of high school and higher education, <br>I'm poised to dive deeper into these cutting-edge fields, eager to contribute my unique perspective to the ever-evolving tech landscape.
-
+Greetings, tech enthusiasts!<br>I'm Samunder Singh, a collage student with an insatiable appetite for artificial intelligence, machine learning, and the boundless realm of computer science
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/files.abhi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samunderisngh) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abhigamer3468) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/samundersingh-adhikari) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@loadingtheblock) 
