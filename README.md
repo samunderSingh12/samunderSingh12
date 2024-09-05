@@ -1,66 +1,73 @@
-# 🌟 Welcome to My GitHub Profile 🌟
+<h1 align="center">✨ Welcome to My GitHub Profile ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Samunder!;Developer+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Hey!+I'm+Samunder.;Developer+%7C+Tech+Enthusiast+%7C+Poet" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🔥 About Me
+<p align="center">
+  <img src="https://github.com/samunderSingh12/sub_reddit_images/blob/main/banner.gif" alt="Banner Image" width="100%" />
+</p>
 
-<div style="background-color: #f5f5f5; padding: 10px; border-radius: 8px; border: 1px solid #e0e0e0;">
-  <ul>
+---
+
+<h2 align="center">🚀 About Me</h2>
+
+<div align="center" style="background-color: #e0f7fa; padding: 15px; border-radius: 10px; border: 2px solid #00acc1; width: 75%;">
+  <ul style="list-style-type: none;">
     <li>🌱 I’m currently learning <b>Blockchain</b> and <b>Machine Learning</b>.</li>
-    <li>💻 I'm passionate about <b>coding</b>, <b>music</b>, and <b>poetry</b>.</li>
-    <li>🎯 Goal: To become a successful <b>AI Developer</b>.</li>
-    <li>💬 Ask me about: <b>Python, Web Development, or AI.</b></li>
+    <li>💻 I love coding, sketching, music, and poetry.</li>
+    <li>🎯 Goal: Become an AI Developer.</li>
+    <li>💬 Ask me about <b>Python, Web Dev, or AI</b>.</li>
   </ul>
 </div>
 
 ---
 
-## 🛠️ My Skills
+<h2 align="center">💻 My Skills</h2>
 
-<div style="display: flex; justify-content: space-around;">
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="50">
-    <p>Python</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png" alt="JavaScript" width="50">
-    <p>JavaScript</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/react-3-1175109.png" alt="React" width="50">
-    <p>React</p>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/nodejs-2-226035.png" alt="Node.js" width="50">
-    <p>Node.js</p>
-  </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samunderSingh12&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=samunderSingh12&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📫 Connect with Me
+<h2 align="center">📫 Connect with Me</h2>
 
-<div style="display: flex; justify-content: center;">
-  <a href="https://www.linkedin.com/in/your-profile/" style="margin: 0 10px;">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-1464524-1239444.png" width="30" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="https://github.com/your-profile" style="margin: 0 10px;">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/github-1598877-1355125.png" width="30" />
+  <a href="https://github.com/your-profile">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
-</div>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+</p>
 
 ---
 
-### 💡 Fun Fact: I love Chai and Roti!
+<h3 align="center">💡 Fun Fact: I love Chai and Roti!</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlObrN7m0rK9L9S/giphy.gif" alt="Chai Gif" width="200px" />
+</p>
+
+---
+
