@@ -1,49 +1,66 @@
-<h2 align="left">Hi 👋! My name is samunderSingh and I'm a Bca Student, from india</h2>
+# 🌟 Welcome to My GitHub Profile 🌟
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Samunder!;Developer+%7C+Tech+Enthusiast" alt="Typing SVG" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samunderSingh12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+---
+
+## 🔥 About Me
+
+<div style="background-color: #f5f5f5; padding: 10px; border-radius: 8px; border: 1px solid #e0e0e0;">
+  <ul>
+    <li>🌱 I’m currently learning <b>Blockchain</b> and <b>Machine Learning</b>.</li>
+    <li>💻 I'm passionate about <b>coding</b>, <b>music</b>, and <b>poetry</b>.</li>
+    <li>🎯 Goal: To become a successful <b>AI Developer</b>.</li>
+    <li>💬 Ask me about: <b>Python, Web Development, or AI.</b></li>
+  </ul>
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 🛠️ My Skills
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+<div style="display: flex; justify-content: space-around;">
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="50">
+    <p>Python</p>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png" alt="JavaScript" width="50">
+    <p>JavaScript</p>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/react-3-1175109.png" alt="React" width="50">
+    <p>React</p>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/nodejs-2-226035.png" alt="Node.js" width="50">
+    <p>Node.js</p>
+  </div>
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samunderSingh12&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<div style="display: flex; justify-content: center;">
+  <a href="https://www.linkedin.com/in/your-profile/" style="margin: 0 10px;">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-1464524-1239444.png" width="30" />
+  </a>
+  <a href="https://github.com/your-profile" style="margin: 0 10px;">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/github-1598877-1355125.png" width="30" />
+  </a>
 </div>
 
-###
+---
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+### 💡 Fun Fact: I love Chai and Roti!
