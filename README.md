@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/samunderSingh12/sub_reddit_images/blob/main/your-banner.gif" alt="Custom Banner" width="100%" />
+  <img src="https://images-ng.pixai.art/images/orig/1ffe14df-eee0-4239-8f25-120b70bbacab" alt="Custom Banner" width="100%" />
 </p>
 
 ---
