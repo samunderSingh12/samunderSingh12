@@ -18,7 +18,7 @@
   <img src="https://user-images.githubusercontent.com/50257986/129772276-b5e8f4f7-cb54-479c-b2a7-303e98640d19.gif" width="150"/>
 </div>
 
-<div align="center" style="background: linear-gradient(to right, #36d1dc, #5b86e5); padding: 20px; border-radius: 10px;">
+<div align="center" style="background: linear-gradient(to right, #ff758c, #ff7eb3); padding: 20px; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
   <ul style="list-style-type: none; color: #fff; text-align: left; font-size: 18px;">
     <li>💻 Currently diving deep into <b>Blockchain</b> and <b>Machine Learning</b>.</li>
     <li>🎨 Besides coding, I love <b>music</b>, <b>sketching</b>, and writing <b>poetry</b>.</li>
@@ -62,6 +62,9 @@
   </a>
   <a href="https://github.com/your-profile">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/channel/your-channel-id">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
