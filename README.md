@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="mainPIC.jpg" alt="Custom Banner" width="30%" />
+  <img src="cp2clo.jpg" alt="Custom Banner" width="30%" />
 </p>
 
 ---
